@@ -5,4 +5,4 @@ Exception handling is used to catch possible errors, such as invalid nitrogenous
 
 For Use:
 
-1. _Be sure that you enter the DNA strand with valid nitrogenous bases. (Either uppercase or lowercase is fine) 
+1. _Be sure that you enter the DNA strand with valid nitrogenous bases. (Either uppercase or lowercase is fine) _
