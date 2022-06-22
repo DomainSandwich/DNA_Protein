@@ -1,4 +1,4 @@
-# DNA_Protein
+# DNA To Protein
 This C++ program takes in a DNA sequence as an input, and then prints out the corresponding mRNA sequence, as well as printing the corresponding protein sequence.
 Specifically, by using a three-dimensional map, we are able to store the related amino acid for each mRNA codon. 
 Exception handling is used to catch possible errors, such as invalid nitrogenous bases provided in the DNA sequence, or the absence of a start codon or end codon. These coding practices are meant to reflect that of the true biological processes of transcription and translation.
