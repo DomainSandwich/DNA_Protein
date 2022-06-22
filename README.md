@@ -6,8 +6,7 @@ Exception handling is used to catch possible errors, such as invalid nitrogenous
 For Use:
 
 1. Be sure that you enter the DNA strand with valid nitrogenous bases. (Either uppercase or lowercase is fine)
-2. Just for your information, the code isn't written in the main function, but rather in a function called DNA_To_Protein. If you are simply looking to access the algorithm without the function, please look at the attached notepad file!
+2. Just for your information, the code isn't written in the main function, but rather in a function called DNA_To_Protein. If you are looking for a text file, look at the attached files. One of them has the pure code, and one of them has the code, without the function!
 
 Thanks! Hope you enjoy the program!
 
-- Domain Sandwich
